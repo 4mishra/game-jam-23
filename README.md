@@ -2,7 +2,7 @@
 This game has been made with pygame + pyOpenGL.
 This is a labyrinth-style game. Based on left, right, up, down arrow keys press, the ball gains an angular velocity and move along the path. 
 
-[Quick demo](https://www.youtube.com/watch?v=QibhT_kXUJY)
+[Quick demo on Youtube](https://www.youtube.com/watch?v=QibhT_kXUJY)
 ## How to run
 I've used Linux Mint 21 Vanessa and python version 3.10.6 to develop this game. I've tested this game on Linux Mint 21 only.
 
